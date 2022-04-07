@@ -17,7 +17,7 @@
         <%@include file="WEB-INF/jspf/navBar.jspf" %>
               
         <div class="container-fluid">
-            <h1>Página Inicial</h1>
+            <h1>Página Inicial Teste GitHub</h1>
             <h3>Esta é uma implementação Java, utilizando server Tomcat, no Maven.</h3>
         </div>
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
