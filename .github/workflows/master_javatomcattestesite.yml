@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'javatomcattestesite'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_32B32C2D84E643E7B2708FEE08C97EBF }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9AECD13364B2487B91A32B0700FF9852 }}
           package: '*.war'
